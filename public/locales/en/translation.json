@@ -1,0 +1,35 @@
+{
+  "app": {
+    "title": "React TS Template",
+    "subtitle": "Vite · React · TypeScript · MUI · Zustand · i18next"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "pt": "Português"
+  },
+  "home": {
+    "greeting": "Hello, {{name}}!",
+    "intro": "This is a client-side rendered single page app. Translation keys are type-checked and autocompleted.",
+    "snackbarSection": "Global snackbar",
+    "snackbarHint": "Triggered from anywhere through the zustand store."
+  },
+  "snackbar": {
+    "success": "Saved successfully",
+    "error": "Something went wrong",
+    "warning": "Heads up, check your input",
+    "info": "Here is some information",
+    "custom": "Custom snackbar with an action",
+    "undo": "Undo",
+    "undone": "Action undone",
+    "close": "Close"
+  },
+  "buttons": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info",
+    "custom": "Custom"
+  },
+  "asas": "en"
+}

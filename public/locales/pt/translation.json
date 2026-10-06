@@ -1,0 +1,35 @@
+{
+  "app": {
+    "title": "Template React TS",
+    "subtitle": "Vite · React · TypeScript · MUI · Zustand · i18next"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "pt": "Português"
+  },
+  "home": {
+    "greeting": "Olá, {{name}}!",
+    "intro": "Esta é uma aplicação de página única renderizada no cliente. As chaves de tradução são verificadas por tipos e têm autocompletar.",
+    "snackbarSection": "Snackbar global",
+    "snackbarHint": "Acionado de qualquer lugar através da store zustand."
+  },
+  "snackbar": {
+    "success": "Guardado com sucesso",
+    "error": "Algo correu mal",
+    "warning": "Atenção, verifique os dados",
+    "info": "Aqui está alguma informação",
+    "custom": "Snackbar personalizada com uma ação",
+    "undo": "Anular",
+    "undone": "Ação anulada",
+    "close": "Fechar"
+  },
+  "buttons": {
+    "success": "Sucesso",
+    "error": "Erro",
+    "warning": "Aviso",
+    "info": "Info",
+    "custom": "Personalizada"
+  },
+  "asas": "pt"
+}
